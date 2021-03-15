@@ -1,0 +1,14 @@
+com/rssfeedapp/ReactNativeFlipper.java
+ com.rssfeedapp.ReactNativeFlipper
+ com.rssfeedapp.ReactNativeFlipper$1
+ com.rssfeedapp.ReactNativeFlipper$2
+ com.rssfeedapp.ReactNativeFlipper$2$1
+com/rssfeedapp/BuildConfig.java
+ com.rssfeedapp.BuildConfig
+com/rssfeedapp/MainActivity.java
+ com.rssfeedapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/rssfeedapp/MainApplication.java
+ com.rssfeedapp.MainApplication
+ com.rssfeedapp.MainApplication$1
